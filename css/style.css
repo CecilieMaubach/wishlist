@@ -1,0 +1,52 @@
+body {
+
+
+background-color: #e0b4d7;
+}
+h1 {
+font-size: 120px;
+text-align: center;
+font-family: 'Pinyon Script', cursive;
+}
+
+div{
+font-size: 80px;
+text-align: center;
+font-family: 'Pinyon Script', cursive;
+}
+
+a{
+font-size: 50px;
+text-align: center;
+font-family: 'Pinyon Script', cursive;
+
+}
+ul {
+font-size: 40px;
+}
+
+#pernilleliste{
+list-style-type: '♥ ';
+}
+
+#emmaliste{
+list-style-type: '♥ ';
+}
+
+#fellesliste{
+list-style-type: '♥ ';
+}
+
+#cecilieliste{
+list-style-type: '♥ ';
+}
+
+
+
+#kingliste{
+list-style-type: '\1F415';
+}
+
+#andreasliste{
+list-style-type: '💻';
+}
